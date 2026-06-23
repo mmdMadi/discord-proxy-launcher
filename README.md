@@ -65,7 +65,7 @@ The output will be in `dist/DiscordProxy.exe`.
 | `config.json` | Saved proxy settings |
 | `version.dll` | DLL to inject into Discord ([source](https://github.com/aiqinxuancai/discord-proxy)) |
 
-## Tips
+## How to Use
 
 1. **Add Discord folder to Windows Defender exclusions** to prevent false positive detection:
    - Open Windows Security > Virus & threat protection > Manage settings > Exclusions > Add an exclusion
